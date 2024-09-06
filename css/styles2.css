@@ -1,0 +1,16 @@
+.my-image {
+    width: 200px;
+    height: auto;
+}
+body {
+    background-color: #afebf3;
+}
+h1 {
+    color:darkblue;
+}
+.custom-font-size {
+    color:rgb(20, 63, 158)
+}
+.custom-font-size {
+    font-size:17px;
+}
