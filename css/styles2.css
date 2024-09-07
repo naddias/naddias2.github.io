@@ -2,6 +2,10 @@
     width: 200px;
     height: auto;
 }
+.skiboard {
+    width: 200px;
+    height: auto;
+}
 body {
     background-color: #afebf3;
 }
@@ -13,4 +17,15 @@ h1 {
 }
 .custom-font-size {
     font-size:17px;
+}
+.hearts {
+    position: absolute;
+    top:-70px;
+    left:150px;
+}
+.flowers {
+    width:430px;
+    position:absolute;
+    top:200px;
+    left: 400px;
 }
